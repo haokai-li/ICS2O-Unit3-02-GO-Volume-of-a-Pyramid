@@ -1,1 +1,2 @@
 # ICS2O-Unit3-02-GO-Volume-of-a-Pyramid
+[![GitHub's Super Linter](https://github.com/haokai-li/ICS2O-Unit3-02-GO-Volume-of-a-Pyramid/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/haokai-li/ICS2O-Unit3-02-GO-Volume-of-a-Pyramid/actions)
